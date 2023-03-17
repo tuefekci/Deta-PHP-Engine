@@ -6,7 +6,7 @@ This Project is a PHP Runtime / Engine for Deta.Space. It is based on [PHP Versi
 - PHP 8.1.8
 - Internal Webserver
 
-[PHP Info](https://github.com/tuefekci/deta-php-engine/phpinfo.png)
+[PHP Info](https://github.com/tuefekci/deta-php-engine/blob/main/phpinfo.png)
 
 ## Installation / Usage
 Clone this repo and make changes to the spacefile for your type of project.
