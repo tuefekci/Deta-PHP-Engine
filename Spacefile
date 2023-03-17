@@ -1,7 +1,8 @@
 # Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
 v: 0
 micros:
-  - name: php
-    src: ./php/
+  - name: php1
+    primary: true
+    src: ./micro/
     engine: custom
     run: ./server.sh

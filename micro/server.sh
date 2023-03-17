@@ -6,4 +6,4 @@ if [ x"${PORT}" == "x" ]; then
 fi
 
 echo "Starting Server @ localhost:$PORT"
-./php -S localhost:$PORT -t webroot/
+./bin/php -S localhost:$PORT -t webroot/
