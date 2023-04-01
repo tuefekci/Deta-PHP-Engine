@@ -2,7 +2,7 @@
 PHP Runtime / Engine for Deta.Space
 This Project is a PHP Runtime / Engine for Deta.Space. It is based on [PHP Version 8.1.8](https://www.php.net/) and uses the Internal Webserver.
 
-[Try Out the PHP Sandbox in Deta.Space](https://deta.space/discovery/@tuefekci/phpsandbox/exp-1kEx)
+[Try Out the PHP Sandbox in Deta.Space](https://deta.space/discovery/@tuefekci/phpsandbox)
 
 ## Features
 - PHP 8.1.8
